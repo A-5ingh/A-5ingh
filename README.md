@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .NET Core 
 - 💞️ I’m looking to collaborate on any open source tech
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=a-5ingh)
+![](https://komarev.com/ghpvc/?username=a-5ingh)
 
 <!---
 A-5ingh/A-5ingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
