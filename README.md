@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=a-5ingh)
 
 ## About Me
-I am a passionate developer with a keen interest in open source contributions and learning new technologies. I have experience in 🚀 Azure DevOps, 🌐 Infrastructure as Code (IaC), 🔄 Cloud Migration (Azure), 🏗️ Bicep, 🌍 MERN stack, ⚙️ CI/CD, and more. I enjoy collaborating on various projects. 
+I am a curious engineer with a keen interest in open source contributions and learning new technologies. I have experience in 🚀 Azure DevOps, 🌐 Infrastructure as Code (IaC), 🔄 Cloud Migration (Azure), 🏗️ Bicep, 🌍 MERN stack, ⚙️ CI/CD, and more. I enjoy collaborating on various projects. 
 
 ## Skills
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
